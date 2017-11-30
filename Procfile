@@ -1,1 +1,1 @@
-web: bundle exec ruby basic.rb
+web: bundle exec ruby basics.rb
